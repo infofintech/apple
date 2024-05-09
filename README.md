@@ -1,2 +1,2 @@
-# Apple Fonts
-Font families used in Apple products.
+# Apple, Inc.
+Files used in Apple products.
